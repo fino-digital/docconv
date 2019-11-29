@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"code.sajari.com/docconv"
+	"github.com/fino-digital/docconv"
 )
 
 func TestConvertDocx(t *testing.T) {
